@@ -1,6 +1,6 @@
 {
   "name": "db-migrate-plugin-tunnel-ssh",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A tunneling plugin on the ssh protocol for db-migrate.",
   "main": "index.js",
   "scripts": {
